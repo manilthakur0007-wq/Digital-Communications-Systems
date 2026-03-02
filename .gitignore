@@ -1,0 +1,17 @@
+# Claude Code local settings (auto-generated, not for version control)
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+
+# Results / generated output
+digital_comms_simulator/results/plots/*.png
+digital_comms_simulator/results/*.csv
+
+# OS
+.DS_Store
+Thumbs.db

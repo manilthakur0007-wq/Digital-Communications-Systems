@@ -9,8 +9,8 @@ __pycache__/
 .coverage
 
 # Results / generated output
-digital_comms_simulator/results/plots/*.png
-digital_comms_simulator/results/*.csv
+results/plots/
+results/*.csv
 
 # OS
 .DS_Store
